@@ -4,6 +4,7 @@
 
  - 서경 SW 아카데미(기업주도) - AI/빅데이터 트랙
 
+<!--
 
 <h3>Back-end Skills</h3>
 
@@ -21,6 +22,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+-->
 
 <h3>📖 Blog</h3>
 
