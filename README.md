@@ -1,4 +1,4 @@
-# Hello! Federico!! (⚙️ Back-end Developer) 👋
+# Hello! Federico!! 👋
 
 
 <h3>Back-end Skills</h3>
