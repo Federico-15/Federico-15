@@ -1,8 +1,4 @@
-# Hello! Federico!! 👋
-
-<h2>⚙️ Back-end Developer</h2>
-
-저는 백엔드 개발에 열정을 가진 개발자입니다. 주로 **Java**, **Spring**, **Spring Boot**와 같은 기술을 사용하며 안정적이고 확장 가능한 백엔드 시스템을 구축하는 데 관심이 많습니다.
+# Hello! Federico!! (⚙️ Back-end Developer) 👋
 
 
 <h3>Back-end Skills</h3>
