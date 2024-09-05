@@ -1,6 +1,6 @@
 # Hello! Federico!! 👋
 
-<h3>🎓 교육 이력</h3>
+<h3>🎓 Experience</h3>
 
 - **서경 SW 아카데미 AI/빅데이터 트랙**
 
