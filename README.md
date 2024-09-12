@@ -4,6 +4,9 @@
 
  - 서경 SW 아카데미(기업주도) - AI/빅데이터 트랙
 
+
+<h3>💻 Projects </h3>
+
 <!--
 
 <h3>Back-end Skills</h3>
