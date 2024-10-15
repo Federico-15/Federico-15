@@ -35,3 +35,9 @@
 <p>
   <a href="https://velog.io/@coding_goat/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
 </p>
+
+### Baekjoon Online Judge Tier
+![Baekjoon tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh9806)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Federico-15&show_icons=true&theme=radical)
