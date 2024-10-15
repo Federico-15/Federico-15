@@ -8,6 +8,7 @@
 <h3>💻 Projects </h3>
 
  - [발길닿는곳](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
+ - [동해.zip](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
 
 <!--
 
