@@ -44,5 +44,8 @@
 <h3>🏅 Baekjoon Online Judge Tier</h3>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh9806" alt="Baekjoon tier" width="150" />
 
+<!--
+
 <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Federico-15&show_icons=true&theme=radical" alt="GitHub Stats" width="250" />
+-->
