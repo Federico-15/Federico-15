@@ -6,7 +6,7 @@
 
 <h3>🏆 Awards & Competitions</h3>
 
- -  DIVE-2024 (본선진출)
+ -  DIVE-2024 - 본선 진출
 
 <h3>💻 Projects </h3>
 
