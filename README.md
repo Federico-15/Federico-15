@@ -43,3 +43,4 @@
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Federico-15&show_icons=true&theme=radical" alt="GitHub Stats" width="300" />
   </div>
+  </div>
