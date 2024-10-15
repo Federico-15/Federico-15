@@ -3,6 +3,8 @@
 <h3>🎓 Experience</h3>
 
  - 서경 SW 아카데미(기업주도) - AI/빅데이터 트랙 (2024.02 ~ 2024.06)
+
+ - <h3>🏆 Awards & Competitions</h3>
 - **DIVE-2024** (2024.09 ~ 2024.10)
 
 <h3>💻 Projects </h3>
