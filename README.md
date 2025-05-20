@@ -8,7 +8,7 @@
 <h3>🏆 Awards & Competitions</h3>
 
  -  **DIVE-2024** - 본선 진출
- -  **8th Ne(O)rdinary 해커톤** - 참가
+ -  **8th Ne(O)rdinary 해커톤**
 
 
 <h3>💻 Projects </h3>
