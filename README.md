@@ -9,7 +9,6 @@
 
  -  **DIVE-2024** - 본선 진출
  -  **8th Ne(O)rdinary 해커톤**
-   https://www.kolleges.net/ko/neordinary/achievement/5423?markAsReceived=true
 
 
 <h3>💻 Projects </h3>
