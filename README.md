@@ -17,6 +17,7 @@
  - [동해.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
  - [RCG](https://github.com/RTG-Ryu-Chae-Guk) (2025.04 ~ 2025.05)
  - [Calorie-chat](https://github.com/hiho1010/calorie-chat) (2025.06)
+ - [kkukmoa](https://github.com/UMC-8th-kkukmoa/back-end) (2025.07 ~ ing)
 
 <!--
 
