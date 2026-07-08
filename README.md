@@ -41,15 +41,6 @@
 
 -->
 
-<h3>📖 Blog</h3>
-
-<p>
-  <a href="https://velog.io/@coding_goat/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
-</p>
-
-<h3>🏅 Baekjoon Online Judge Tier</h3>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh9806" alt="Baekjoon tier" width="150" />
-
 <!--
 
 <h3>📊 GitHub Stats</h3>
