@@ -16,10 +16,8 @@
 
 <h3>💻 Projects</h3>
 
-- [발길닿는곳](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
-- [동해.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
-- [RCG](https://github.com/RTG-Ryu-Chae-Guk) (2025.04 ~ 2025.05)
-- [Calorie-chat](https://github.com/hiho1010/calorie-chat) (2025.06)
-- [kkukmoa](https://github.com/UMC-8th-kkukmoa/back-end) (2025.07 ~ 2025.12)
-- [금융권에서의 MSA](https://github.com/FISA-Team-CE/tech-semina-msa) - 우리FISA 1차 기술 세미나 MSA 프로젝트 🏆 
-- [콩콩팥팥](https://github.com/FISA-Agri-Pay) - 농민 BNPL 플랫폼, 시계열 예측 기반 Kubernetes 오토스케일링 및 Observability 통합 시스템 구축 🏆
+- [2026.04.10 ~ 2026.06.17] [콩콩팥팥](https://github.com/FISA-Agri-Pay) : 농민을 위한 BNPL 플랫폼 🏆
+- [2026.01.21 ~ 2026.02.05] [금융권에서의 MSA](https://github.com/FISA-Team-CE/tech-semina-msa) : 금융권 도메인 기반 MSA 설계 프로젝트 🏆
+- [2025.07 ~ 2025.12] [kkukmoa](https://github.com/UMC-8th-kkukmoa/back-end) : 소상공인을 위한 모바일 스탬프 적립 서비스
+- [2024.09 ~ 2024.10] [동해.zip](https://github.com/DIVE-2024) : 동해 관광 활성화 서비스
+- [2024.04 ~ 2024.06] [발길닿는곳](https://github.com/Federico-15/SW_ET) : 여행지 추천 서비스
